@@ -1,0 +1,1 @@
+Creación de un entorno virtual con python venv, pip, anaconda.
